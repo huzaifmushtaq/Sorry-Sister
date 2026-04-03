@@ -52,7 +52,7 @@ export default function GiftPage() {
         transition={{ duration: 1 }}
         className="text-3xl text-pink-300 mb-16"
       >
-        I have something special for you... 💝
+        Few lines To All Of You... 💝
       </motion.h2>
 
       <motion.div
@@ -203,7 +203,7 @@ export default function GiftPage() {
                       transition={{ duration: 0.8, delay: 0.6 }}
                       className="text-lg text-purple-200 leading-relaxed"
                     >
-                      Just like my love for you. I promise to cherish you every single day, and never take your
+                      Just like my love for you , My little sister . I promise to cherish you every single day, and never take your
                       beautiful heart for granted again.💖
                     </motion.p>
                     <motion.p
@@ -212,7 +212,7 @@ export default function GiftPage() {
                       transition={{ duration: 0.8, delay: 0.9 }}
                       className="text-xl text-pink-200"
                     >
-                      You mean everything to me💕✨
+                      You mean very much to your brother 💕✨
                     </motion.p>
                   </motion.div>
                 )}
