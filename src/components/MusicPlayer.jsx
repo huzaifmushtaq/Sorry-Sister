@@ -40,7 +40,7 @@ export default function MusicPlayer({ musicPlaying, setMusicPlaying }) {
 
       {/* Change the audio source to original one */}
       <audio ref={audioRef} loop preload="auto">
-        <source src="/audio/chd" type="audio/wav" />
+        <source src="/audio/cjd" type="audio/wav" />
       </audio>
     </motion.div>
   )
